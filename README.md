@@ -12,5 +12,7 @@
 - hàm menu: tạo menu đầu game.
 ### main.cpp:
 sử dụng các hàm trong file.cpp để vận hành game.
-## Cách chơi:
-dựa trên game dò mìn cơ bản: thắng khi tìm đánh dấu được hết ô có bom, thua khi click vào ô có bom.
+## Cách chơi: dựa trên game dò mìn cơ bản:
+- click chuột trái để mở ô.
+- click chuột phải để đánh dấu ô.
+- thắng khi tìm đánh dấu được hết ô có bom, thua khi click vào ô có bom.
