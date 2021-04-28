@@ -9,6 +9,6 @@
 - hàm left : xử lí khi click chuột trái
 - hàm khoi_tao_bom,bom_xq,kiemtra,drawtext : xử lí khi chơi game;
 - hàm ketthuc: dùng khi game thắng hoặc thua.
-- ###main.cpp: sử dụng các hàm trong file.cpp để vận hành game.
+- ### main.cpp: sử dụng các hàm trong file.cpp để vận hành game.
 ## Cách chơi:
 dựa trên game dò mìn cơ bản: thắng khi tìm đánh dấu được hết ô có bom, thua khi click vào ô có bom.
