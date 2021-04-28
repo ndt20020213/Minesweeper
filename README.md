@@ -1,1 +1,2 @@
 # Minesweeper
+game cơ bản
