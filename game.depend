@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1619542514 source:c:\users\admin\test\testsdl\game\main.cpp
+	<iostream>
+	<SDL.h>
+	<string.h>
+	<file.h>
+	<SDL_ttf.h>
+	<time.h>
+
+1619538561 c:\users\admin\test\testsdl\game\include\file.h
+	<iostream>
+	<SDL.h>
+
+1619542814 source:c:\users\admin\test\testsdl\game\src\file.cpp
+	"file.h"
+	<iostream>
+	<SDL.h>
+	<string>
+	<cstdlib>
+	<ctime>
+	<SDL_ttf.h>
+
