@@ -17,4 +17,4 @@ sử dụng các hàm trong file.cpp để vận hành game.
 - click chuột phải để đánh dấu ô.
 - thắng khi tìm đánh dấu được hết ô có bom, thua khi click vào ô có bom.
 # Video demo
--https://drive.google.com/drive/u/0/folders/159xfe_7ObwsJ2SSts15dCj3tWe7fkbpY
+-https://drive.google.com/drive/folders/159xfe_7ObwsJ2SSts15dCj3tWe7fkbpY?usp=sharing
